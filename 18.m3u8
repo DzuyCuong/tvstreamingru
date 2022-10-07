@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=4000000,RESOLUTION=256x256
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
